@@ -1,8 +1,3 @@
-// CISC 2000   Fordham University
-// Instructor: Vincent Mierlak
-//
-// Name: Md Fazle Rabbi
-//
 // Header file piggame.h.
 // 
 // A class to play the game of Pig.
