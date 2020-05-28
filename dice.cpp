@@ -1,8 +1,3 @@
-// CISC 2000  Fordham University  Spring 2020
-// Instructor: Vincent Mierlak
-// 
-// Name: Md Fazle Rabbi
-// 
 // HW 9: The Game of Pig.
 // File: dice.cpp
 //       Implementation of Dice, a class that represents an n-sided die.
