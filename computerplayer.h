@@ -1,6 +1,3 @@
-// CISC 2000   Fordham University
-// Instructor: Vincent Mierlak
-// Name: Md Fazle Rabbi
 // Header file computerplayer.h.
 // 
 // A derived class for a computer player in the game of Pig.
