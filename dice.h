@@ -1,7 +1,3 @@
-// CISC 2000   Fordham University
-// Instructor: Vincent Mierlak
-//
-// Name: Md Fazle Rabbi
 // Header file dice.h.
 // 
 // An n-sided die.
