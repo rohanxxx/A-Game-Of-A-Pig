@@ -1,9 +1,4 @@
-// CISC 2000   Fordham University   Spring 2020
-// Instructor: Vincent Mierlak
-// 
-// Name: Md Fazle Rabbi
-//
-// HW 9: The Game of Pig.
+// The Game of Pig.
 // File: main.cpp
 //       Main program to play one game of Pig.
 
